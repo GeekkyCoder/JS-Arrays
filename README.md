@@ -12,4 +12,4 @@ deletes a particular item from the array elements:
  for deleting a particular item from the array , you can use JS built in javascript array method namely, Array.filter()
 
 # Array.filter()
-🏹 https://developer.mozilla.org/en-US/docs/Web/ JavaScript/Reference/Global_Objects/Array/filter
+🏹 (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter)
